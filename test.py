@@ -1,2 +1,2 @@
 def jj (self)->str:
- if
+ if方法
